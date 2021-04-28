@@ -1,0 +1,10 @@
+body {
+  overflow: hidden;
+}
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  color: #fff;
+  padding-top: 25vh;
+}
